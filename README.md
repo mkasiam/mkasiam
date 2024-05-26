@@ -1,7 +1,7 @@
 # 👨‍💻 Welcome to the Coding Odyssey! 🌌
 ## Unleashing Digital Magic with Kawsar Ahmmed
 
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEfK_zuQncQCw/profile-displaybackgroundimage-shrink_350_1400/0/1702399657078?e=1707955200&v=beta&t=lI9imVFict225ESyRtLL2Lx1lTHz32n0ShKoTPjZXCM)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQEfK_zuQncQCw/profile-displaybackgroundimage-shrink_350_1400/0/1702399657078?e=1722470400&v=beta&t=2a63-646OYg0aCK1ihNyTqyckPjEgCWh2baWpf_sCWs)
 
 Greetings, fellow explorer! I'm Kawsar Ahmmed, a passionate Full Stack Web Developer currently embarking on a thrilling journey through the realms of Computer Science and Engineering at Rajshahi University. Armed with the power of React, JS, HTML, CSS, MongoDB, Tailwind, and Node.js, I'm on a mission to shape the digital future.
 
